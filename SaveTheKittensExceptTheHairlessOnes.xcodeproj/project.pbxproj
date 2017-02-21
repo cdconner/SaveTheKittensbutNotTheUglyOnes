@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					A58D8A531E5BF6F60021696E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = BJT8QVT53Y;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BJT8QVT53Y;
 				INFOPLIST_FILE = SaveTheKittensExceptTheHairlessOnes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chrisconner.SaveTheKittensExceptTheHairlessOnes;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BJT8QVT53Y;
 				INFOPLIST_FILE = SaveTheKittensExceptTheHairlessOnes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chrisconner.SaveTheKittensExceptTheHairlessOnes;
